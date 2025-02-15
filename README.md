@@ -37,3 +37,8 @@ Sua ajuda é muito bem-vinda! Contribua com código, design, traduções, sugest
 
 **Junte-se a nós e faça a diferença na mobilidade urbana de São Paulo!**
 
+
+## Indentidade Visual!
+
+https://www.canva.com/design/DAGfGaFjSu4/Z8gz4ok001GFnO6JizgRGg/view?utm_content=DAGfGaFjSu4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h81d4dc4cec
+
