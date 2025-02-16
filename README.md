@@ -42,3 +42,6 @@ Sua ajuda é muito bem-vinda! Contribua com código, design, traduções, sugest
 
 https://www.canva.com/design/DAGfGaFjSu4/Z8gz4ok001GFnO6JizgRGg/view?utm_content=DAGfGaFjSu4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h81d4dc4cec
 
+## Banco de Dados:
+
+![database metrosp](https://github.com/user-attachments/assets/eab39bea-7b4a-4df4-8b5c-c29d4453f834)
