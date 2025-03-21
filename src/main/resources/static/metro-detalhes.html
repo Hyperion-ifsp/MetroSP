@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Detalhes do Metrô</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            background-color: #f4f4f4;
+        }
+        table {
+            border-collapse: collapse;
+            width: 80%;
+            margin: 20px auto;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+<h1>Detalhes do Metrô</h1>
+<table>
+    <thead>
+    <tr>
+        <th>ID Metro</th>
+        <th>Nome Estação</th>
+        <th>IDs Linhas</th>
+        <th>Nomes Cores</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr th:each="resultado : ${resultados}">
+        <td th:text="${resultado.ID_METRO}"></td>
+        <td th:text="${resultado.NM_ESTACAO}"></td>
+        <td th:text="${resultado.ID_LINHAS}"></td>
+        <td th:text="${resultado.NM_CORES}"></td>
+    </tr>
+    </tbody>
+</table>
+</body>
+</html>
